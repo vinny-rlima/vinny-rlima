@@ -34,8 +34,8 @@ Vamos trocar ideia? Me chama por aqui ou nas redes! 😄
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white) 
   ![Angular](https://img.shields.io/badge/Angular-%23E4405F?style=for-the-badge&logo=angular&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white)
   <img align="right" alt="Rafa-pic" height="80" style="border-radius:50px;" src="https://i.giphy.com/media/zOvBKUUEERdNm/giphy.webp">
   
 </div>
